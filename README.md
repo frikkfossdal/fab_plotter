@@ -14,7 +14,7 @@ Good practice: If this is your first round of using Fab Machines, read up on the
 
 Inspired by Jake Read (link), this machine uses a variant of the Fabricatable Axis that uses flexures instead of eccentric screws for bearing tension. The bearings on the flexure side have a 0.2 offset. This turned out great, and gives a tight and easy-to-tune setup. The rack is kept as a separate component, instead of being milled directly into the rail. The rack is milled with slots for tuning (note: Im not sure if this is necessary, and tuning the rack is kind of a hassle. I want to come back to this on next iteration).  
 
-![Bearing flexures virtual](img/fab_axis_big v35.png)
+![Bearing flexures virtual](img/fab_axis_big.png)
 ![Bearing flexures physical](img/IMG_1384.jpeg)
 
 
