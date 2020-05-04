@@ -28,6 +28,11 @@ As always, good to surface the waste board to get straight good cuts. Hurtig v1 
 
 Fab Axes and frame are assembled separately. The joints really helps on keeping things aligned. Make sure to remove any tabs from milling. See videos for quick previews.
 
+# Traveling 
+
+Disassemble gantry and frame and pack into carry-on-sandwich
+
+![Pretty packable motion platform](img/20200211-DSC_9266.jpg)
 
 # BOM: Sourcing parts scandinavian style
 
